@@ -1,4 +1,4 @@
-# 圆上的乘法
+# Circle Multiplication — Generative Study（圆周乘法·生成艺术）
 
 一个全屏、自动演化的 p5.js 数学作品。页面只保留图形，没有文字、控件或辅助网格。
 
